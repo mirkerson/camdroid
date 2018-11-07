@@ -44,6 +44,7 @@ sudo ./LiveSuit.sh
 
 按住板上FLASH烧录按钮，插入USB线.
 资料
+如需购买开发板 欢迎光临 https://item.taobao.com/item.htm?spm=a230r.1.14.38.6d246571W3bJLr&id=566707014983&ns=1&abbucket=16#detail
 
 原理图,摄像头规书,配置文档请参考 camdroid/AWDocument
 有任何疑问欢迎联系本人 QQ:252915145  进行更多有意思的讨论
